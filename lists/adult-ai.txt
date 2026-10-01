@@ -1,0 +1,26 @@
+! Title: Adult AI Blocklist
+! Description: Blocks AI services and related directories primarily associated with adult content.
+! Last modified: 2026-09-30
+
+! Adult AI services
+||aisexy.ai^
+||magi1.ai^
+||ourdream.ai^
+||trynectar.ai^
+||spicychat.ai^
+||dreamgf.ai^
+||kupid.ai^
+||herahaven.ai^
+||nastia.ai^
+||funfun.ai^
+||avatar.one^
+||nsfwlover.com^
+||flipped.chat^
+||foxy.ai^
+||lovecore.ai^
+
+! Adult AI directories / discovery sites
+||topai.tools^
+||toolspicy.com^
+||mopoga.com^
+||gogetgpt.com^
